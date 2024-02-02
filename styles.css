@@ -6,6 +6,10 @@ header {
     display: flex;
 }
 
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
 #hero, #footer {
     background-color: #1F2937;
 }
