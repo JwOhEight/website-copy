@@ -13,6 +13,7 @@ body {
 }
 header {
     background-color: #1F2937;
+    height: 10vh;
 }
 
 .header-logo {
@@ -22,7 +23,7 @@ header {
 
 #hero {
     margin: 0;
-    height: 30vh;
+    height: 20vh;
 }
 
 #hero, #footer {
@@ -33,7 +34,7 @@ header {
     font-weight: bolder;
     font-size: 48px;
     color: #F9FAF8;
-    margin: auto
+    margin: auto;
 }
 
 .hero-secondary-text, .header-link {
