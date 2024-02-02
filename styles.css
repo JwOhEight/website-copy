@@ -1,6 +1,12 @@
 * {
     font-family: Roboto, 'Open Sans', sans-serif;
 }
+
+header {
+    display: flex;
+    align-items: space-between;
+}
+
 #hero, #footer {
     background-color: #1F2937;
 }
