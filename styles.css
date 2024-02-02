@@ -21,6 +21,7 @@ header {
 
 #hero {
     margin: 0;
+    height: 30vh;
 }
 
 #hero, #footer {
@@ -39,10 +40,12 @@ header {
     color: #E5E7EB;
 }
 
-.hero-img {
-    align-self: self-end;
+#info {
+    background-color: #E5E7EB;
+    height: 20vh;
 }
-.info {
+
+#quote {
     background-color: #E5E7EB;
 }
 
@@ -51,6 +54,7 @@ blockquote {
     color: #1F2937;
     font-weight: 'light italic';
     font-size: 36px;
+    height: 20
 }
 
 #cta {
