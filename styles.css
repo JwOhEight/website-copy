@@ -13,7 +13,7 @@ body {
 }
 header {
     background-color: #1F2937;
-    height: 10vh;
+    height: 5vh;
 }
 
 .header-logo {
@@ -23,7 +23,7 @@ header {
 
 #hero {
     margin: 0;
-    height: 20vh;
+    height: 21.5vh;
 }
 
 #hero, #footer {
@@ -44,19 +44,19 @@ header {
 
 #info {
     background-color: white;
-    height: 20vh;
+    height: 21.5vh;
 }
 
 #quote {
     background-color: #E5E7EB;
-    height: 20vh;
+    height: 21.5vh;
 }
 
 #cta {
     background-color: white;
-    height: 20vh
+    height: 21.5vh
 }
 
 #footer {
-    height: 10vh;
+    height: 5vh;
 }
