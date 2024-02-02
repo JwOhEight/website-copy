@@ -12,6 +12,7 @@ header {
     justify-content: space-between;
     flex: 1;
     background-color: #1F2937;
+    height: 5vh;
 }
 
 
@@ -21,12 +22,14 @@ header {
 }
 #hero, #footer {
     background-color: #1F2937;
+    height: 20vh;
 }
 
 .hero-main-text {
     font-weight: extra-bold;
     font-size: 48px;
     color: #F9FAF8;
+    margin: 0 auto 0 auto;
 }
 
 .hero-secondary-text, .header-link {
