@@ -3,6 +3,7 @@
 }
 
 body {
+    margin-top: 0;
     margin-left: 15%;
     margin-right: 15%;
     display: flex;
@@ -47,14 +48,6 @@ header {
 
 #quote {
     background-color: #E5E7EB;
-    height: 20vh;
-}
-
-blockquote {
-    background-color: #E5E7EB;
-    color: #1F2937;
-    font-weight: 'light italic';
-    font-size: 36px;
     height: 20vh;
 }
 
