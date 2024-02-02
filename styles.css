@@ -39,6 +39,9 @@ header {
     color: #E5E7EB;
 }
 
+.hero-img {
+    align-self: self-end;
+}
 .info {
     background-color: #E5E7EB;
 }
