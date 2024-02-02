@@ -21,3 +21,7 @@ blockquote {
     font-weight: 'light italic';
     font-size: 36px;
 }
+
+#cta {
+    background-color: #3882F6;
+}
