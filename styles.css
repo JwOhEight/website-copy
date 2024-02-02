@@ -6,3 +6,9 @@
     height: 300px;
 }
 
+blockquote {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-weight: 'light italic';
+    font-size: 36px;
+}
