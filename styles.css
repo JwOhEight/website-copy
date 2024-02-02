@@ -11,6 +11,11 @@
     font-size: 48px;
     color: #F9FAF8;
 }
+
+#hero-secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
 blockquote {
     background-color: #E5E7EB;
     color: #1F2937;
