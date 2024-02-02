@@ -4,6 +4,7 @@
 
 header {
     display: flex;
+    background-color: #1F2937;
 }
 
 .header-logo {
