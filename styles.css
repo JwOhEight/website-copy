@@ -5,7 +5,6 @@
 body {
     margin-left: 15%;
     margin-right: 15%;
-    background-color: #1F2937;
 }
 header {
     display: flex;
@@ -14,6 +13,7 @@ header {
     flex: 1;
     background-color: #1F2937;
 }
+
 
 .header-logo {
     font-size: 24px;
@@ -33,6 +33,11 @@ header {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.info {
+    background-color: #E5E7EB;
+}
+
 blockquote {
     background-color: #E5E7EB;
     color: #1F2937;
