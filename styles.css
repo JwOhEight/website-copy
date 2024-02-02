@@ -1,18 +1,18 @@
 * {
     font-family: Roboto, 'Open Sans', sans-serif;
 }
-.hero, .footer {
+#hero, #footer {
     background-color: #1F2937;
     height: 300px;
 }
 
-#hero-main-text {
+.hero-main-text {
     font-weight: extra-bold;
     font-size: 48px;
     color: #F9FAF8;
 }
 
-#hero-secondary-text {
+.hero-secondary-text {
     font-size: 18px;
     color: #E5E7EB;
 }
