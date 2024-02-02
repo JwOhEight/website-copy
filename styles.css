@@ -16,6 +16,12 @@ body {
 header {
     background-color: #1F2937;
     height: 5vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .header-logo {
