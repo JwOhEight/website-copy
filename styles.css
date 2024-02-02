@@ -25,7 +25,7 @@ header {
     margin-bottom: 0;
 }
 
-.header-links {
+.link-div {
     display: flex;
     justify-content: space-between;
 }
