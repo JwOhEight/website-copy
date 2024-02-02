@@ -41,12 +41,13 @@ header {
 }
 
 #info {
-    background-color: #E5E7EB;
+    background-color: white;
     height: 20vh;
 }
 
 #quote {
     background-color: #E5E7EB;
+    height: 20vh;
 }
 
 blockquote {
@@ -54,9 +55,14 @@ blockquote {
     color: #1F2937;
     font-weight: 'light italic';
     font-size: 36px;
-    height: 20
+    height: 20vh;
 }
 
 #cta {
-    background-color: #3882F6;
+    background-color: white;
+    height: 20vh
+}
+
+#footer {
+    height: 10vh;
 }
