@@ -38,7 +38,7 @@ header {
 /* hero */
 #hero {
     margin-top: 100px;
-    margin-bottom: 0px;
+    margin-bottom: 100px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -61,7 +61,7 @@ header {
     padding: 10px;
     width: 20%;
     align-self: center;
-    border-radius: 30px;
+    border-radius: 10px;
     color: white;
 }
 
