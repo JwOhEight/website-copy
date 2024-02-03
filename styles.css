@@ -58,8 +58,9 @@ header {
 .hero-flexdiv-left {
     display: flex;
     flex-direction: column;
-    margin-right: 50px;
+    margin-right: auto;
     text-wrap: pretty;
+    
 }
 
 .hero-button {
@@ -74,7 +75,7 @@ header {
 }
 
 .hero-img {
-    align-items: flex-end;
+    width: auto;
 }
 
 .hero-secondary-text, .header-link {
