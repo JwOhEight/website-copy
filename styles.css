@@ -53,6 +53,10 @@ header {
     align-items: flex-start;
 }
 
+.hero-button {
+    background-color: #3882F6;
+}
+
 .hero-img {
     align-items: flex-end;
 }
