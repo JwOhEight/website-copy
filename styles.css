@@ -111,6 +111,13 @@ header {
     align-items: center;
 }
 
+.info-img-border {
+    width: 80px;
+    height: 80px;
+    border: 5px solid blue;
+    border-radius: 15px;
+}
+
 .info-p-flex {
     display: flex;
     flex-direction: row;
