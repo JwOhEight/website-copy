@@ -53,19 +53,22 @@ header {
 
 .hero-secondary-text {
     margin-top: 0;
+    text-wrap: pretty;
 }
 
 .hero-flexdiv-left {
     display: flex;
     flex-direction: column;
     margin-right: auto;
-    text-wrap: pretty;
-    
 }
 
 .hero-button {
     background-color: #3882F6;
-    padding: 5px;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    margin-top: 0;
     width: 20%;
     align-self: flex-start;
     border-radius: 5px;
@@ -75,8 +78,8 @@ header {
 }
 
 .hero-img {
-    width: auto;
-    margin-left: 90px;
+    align-items: flex-end;
+    margin-left: 200px;
 }
 
 .hero-secondary-text, .header-link {
