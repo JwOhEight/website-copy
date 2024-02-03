@@ -59,8 +59,10 @@ header {
 .hero-button {
     background-color: #3882F6;
     padding: 10px;
-    width: 30%;
+    width: 20%;
     align-self: center;
+    border-radius: 30px;
+    color: white;
 }
 
 .hero-img {
