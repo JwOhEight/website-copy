@@ -16,7 +16,6 @@ body {
 /* navbar */
 header {
     background-color: #1F2937;
-    height: 5vh;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -40,7 +39,7 @@ header {
 #hero {
     margin-top: 100px;
     margin-bottom: 0px;
-    height: 21.5vh;
+    display: flex;
 }
 
 .hero-main-text {
@@ -48,6 +47,14 @@ header {
     font-size: 48px;
     color: #F9FAF8;
     margin: auto;
+}
+
+.hero-main-text, .hero-secondary-text {
+    align-items: flex-start;
+}
+
+.hero-img {
+    align-items: flex-end;
 }
 
 .hero-secondary-text, .header-link {
@@ -58,24 +65,20 @@ header {
 /* info section */
 #info {
     background-color: white;
-    height: 21.5vh;
 }
 
 /* quote section */
 #quote {
     background-color: #E5E7EB;
-    height: 21.5vh;
 }
 
 /* call-to-action section */
 #cta {
     background-color: white;
-    height: 21.5vh
 }
 
 /* footer section */
 #footer {
-    height: 5vh;
 }
 
 #hero, #footer {
