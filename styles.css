@@ -104,6 +104,11 @@ header {
     align-items: center;
 }
 
+.info-div-columns {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
 
 /* quote section */
 #quote {
