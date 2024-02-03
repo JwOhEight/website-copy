@@ -63,9 +63,10 @@ header {
     padding: 5px;
     width: 20%;
     align-self: flex-start;
-    border-radius: 10px;
+    border-radius: 5px;
     color: white;
     border-color: transparent;
+    font-weight: bold;
 }
 
 .hero-img {
