@@ -94,6 +94,12 @@ header {
     background-color: white;
 }
 
+.info-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
 /* quote section */
 #quote {
     background-color: #E5E7EB;
