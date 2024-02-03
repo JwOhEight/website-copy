@@ -93,7 +93,7 @@ header {
 /* info section */
 #info {
     background-color: white;
-    height: 50vh
+    height: 50vh;
 }
 
 .info-div {
@@ -106,6 +106,8 @@ header {
 .infosquare {
     height: 70px;
     width: 70px;
+    display: flex;
+    align-items: center;
 }
 /* quote section */
 #quote {
