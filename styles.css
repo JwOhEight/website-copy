@@ -60,7 +60,7 @@ header {
     background-color: #3882F6;
     padding: 10px;
     width: 30%;
-
+    align-self: center;
 }
 
 .hero-img {
