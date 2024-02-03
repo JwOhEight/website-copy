@@ -96,6 +96,13 @@ header {
     height: 50vh;
 }
 
+.info-heading {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+}
+
 .info-div {
     /* creates row that contains flex columns*/
     display: flex;
