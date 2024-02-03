@@ -49,8 +49,9 @@ header {
     margin: auto;
 }
 
-.hero-main-text, .hero-secondary-text {
-    align-items: flex-start;
+.hero-flexdiv-left {
+    display: flex;
+    flex-direction: column;
 }
 
 .hero-button {
