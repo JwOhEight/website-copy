@@ -56,14 +56,11 @@ header {
     flex-direction: column;
 }
 
-.hero-flexdiv-right {
-
-}
-
 .hero-button {
     background-color: #3882F6;
     padding: 10px;
     width: 30%;
+
 }
 
 .hero-img {
