@@ -54,7 +54,8 @@ header {
 .hero-flexdiv-left {
     display: flex;
     flex-direction: column;
-    margin-right: 80px;
+    margin-right: 50px;
+    text-wrap: pretty;
 }
 
 .hero-button {
@@ -93,8 +94,5 @@ header {
 
 /* footer section */
 #footer {
-}
-
-#hero, #footer {
     background-color: #1F2937;
 }
